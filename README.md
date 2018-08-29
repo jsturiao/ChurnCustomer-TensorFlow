@@ -1,2 +1,2 @@
-# tcc
-Trabalho de Conclusão de Curso - Unicarioca 2018
+# Trabalho de Conclusão de Curso
+Unicarioca 2018
